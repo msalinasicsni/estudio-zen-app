@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Estudio ZEN</string>
+    <string name="main_header">Estudios de Investigación</string>
+    <string name="desc_logo">Instituto de Ciencias Sostenibles</string>
+
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="confirm">Confirmar</string>
+    <string name="loading">Cargando.....</string>
+    <string name="exiting">Realmente desea Salir?</string>
+
+    <string name="desc_barcode">Escanear código de barras</string>
+    <string name="enter_code">Ingresar código</string>
+    <string name="enter_name">Ingresar nombre</string>
+    <string name="enter_lastname">Ingresar apellido</string>
+    <string name="code">Código</string>
+    <string name="barcode_error">Escaner de código de barras no disponible</string>
+    <string name="code_notfound">Identificador no encontrado!</string>
+
+    <string name="selec_part">Seleccionar participante</string>
+    <string name="search_hint">Ingresar texto de búsqueda</string>
+
+    <string name="errordb">Ha ocurrido un error, base de datos no existe!</string>
+    <string name="downloading">Descargar toda la info del servidor? Esta operacion descarta toda la informacion actual en el dispositivo</string>
+    <string name="wipe_db_confirm">Al marcar esta opción borrará la base de datos del equipo, los datos almacenados se borrarán si continúa. Aún desea marcar esta opción?</string>
+    <string name="error_wipe_db_super">No tiene el rol necesario para limpiar base de datos</string>
+
+    <string name="storage_error">Medio de almacenamiento no disponible!</string>
+    <string name="err_cancel">Ha cancelado el proceso!</string>
+    <string name="cancel">Cancelar</string>
+    <string name="success">Operación exitosa!</string>
+    <string name="error">Ha ocurrido un error!</string>
+    <string name="scan_error">Esta lectura es inválida!</string>
+    <string name="no_items">No hay registros!</string>
+</resources>
